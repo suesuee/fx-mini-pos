@@ -1,0 +1,27 @@
+.color-primary {
+	-fx-background-color: #393F7D;
+}
+
+.pad-20 {
+	-fx-padding: 20 20 20 20;
+}
+
+.text-white {
+	-fx-text-fill: white;
+}
+
+.al-center {
+	-fx-alignment: center;
+}
+
+.al-left {
+	-fx-alignment: center-left;
+}
+
+.al-right {
+	-fx-alignment: center-right;
+}
+
+.pd-left-10 {
+	-fx-padding: 0 0 0 10;
+}
